@@ -6,3 +6,9 @@ def multi(a, b):
 
 def subtract(a, b):
     return a - b
+
+
+
+def remain(a, b):
+    return a % b
+
